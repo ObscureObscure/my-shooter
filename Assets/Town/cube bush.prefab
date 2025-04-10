@@ -48,6 +48,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 126f8272045966540922b49dee55f417, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 893ccf7878cec174196b4208e6fb5baa, type: 2}
     - target: {fileID: 919132149155446097, guid: 126f8272045966540922b49dee55f417, type: 3}
       propertyPath: m_Name
       value: cube bush

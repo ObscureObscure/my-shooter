@@ -51,10 +51,10 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: f956e0e17c64dc64bb3cf09fdec5c0c1, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e75042f4c8480fc41860053fa2b11fc8, type: 2}
+      objectReference: {fileID: 2100000, guid: 18cab647765ebef46b070d94243b9280, type: 2}
     - target: {fileID: 919132149155446097, guid: f956e0e17c64dc64bb3cf09fdec5c0c1, type: 3}
       propertyPath: m_Name
-      value: cobblestone
+      value: sidewalk
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
